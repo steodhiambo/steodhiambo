@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an innovative full-stack developer with expertise in backend technologies like Go and JavaScript. I'm passionate about AI and am currently transitioning into data engineering and data analytics. I'm focused on building robust data pipelines, performing insightful analysis, and leveraging data to drive decisions.
+I'm an innovative full-stack developer with expertise in backend technologies like Go, Python, FastAPI, Django, Ruby, and JavaScript. I'm passionate about AI and am currently transitioning into data engineering and data analytics. I'm focused on building robust data pipelines, performing insightful analysis, and leveraging data to drive decisions.
 
 ### What I'm Learning & Working On
 
@@ -10,7 +10,7 @@ I'm an innovative full-stack developer with expertise in backend technologies li
 
 ### Skills
 
-- Backend Development: Go, JavaScript
+- Backend Development: Go, Python, FastAPI,Django JavaScript
 - Data Engineering: SQL, Python (Pandas, NumPy), ETL workflows
 - Data Analytics: Data visualization, statistical analysis
 - AI Enthusiast: Machine learning, AI tools
