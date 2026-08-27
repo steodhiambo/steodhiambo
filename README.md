@@ -6,19 +6,19 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=vercel&logoColor=white)](https://steodhiambo-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-## 🚀 About Me
+##  About Me
 
 Full-Stack Developer | Data Engineer | AI Enthusiast
 
 I'm a passionate developer transitioning from full-stack web development to data engineering and AI. I love building robust backend systems, designing data pipelines, and exploring how AI can solve real-world problems.
 
-- 📍 **Location:** Kisumu, Kenya | Open to Remote
-- 🎯 **Currently:** Data Engineering & AI/ML
-- 🌱 **Learning:** Advanced Python, Cloud Data Platforms, MLOps
+-  **Location:** Nairobi, Kenya | Open to Remote
+-  **Currently:** Data Engineering & AI/ML
+-  **Learning:** Advanced Python, Cloud Data Platforms, MLOps
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 ### Backend Development
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -50,7 +50,7 @@ I'm a passionate developer transitioning from full-stack web development to data
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=steodhiambo&show_icons=true&theme=radical&hide_border=true)
 
@@ -58,28 +58,16 @@ I'm a passionate developer transitioning from full-stack web development to data
 
 ---
 
-## 🎯 Currently Looking For
+## Currently Looking For
 
-- 💼 **Data Engineering** roles (ETL, pipelines, warehousing)
-- 💻 **Backend Developer** positions (Go, Python, APIs)
-- 🤖 **AI/ML Engineer** opportunities
-- 🌍 Open to **remote** work worldwide
-
----
-
-## 🔥 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [mpesa-etl-pipeline](https://github.com/steodhiambo/mpesa-etl-pipeline) | End-to-end ETL pipeline for M-Pesa transaction data | Python, Pandas, SQL |
-| [customer-churn-analysis](https://github.com/steodhiambo/customer-churn-analysis) | ML model for predicting customer churn | Python, Scikit-learn |
-| [mini-ai-assistant](https://github.com/steodhiambo/mini-ai-assistant) | AI assistant powered by Google Gemini | Python, Flask, Gemini API |
-| [umoja-voices](https://github.com/steodhiambo/umoja-voices) | Civic engagement platform for Kenyan communities | TypeScript |
-| [netfix](https://github.com/steodhiambo/netfix) | Service marketplace platform | Django, Python |
+-  **Data Engineering** roles (ETL, pipelines, warehousing)
+-  **Backend Developer** positions (Go, Python, APIs)
+-  **AI/ML Engineer** opportunities
+-  Open to **remote** work worldwide
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 I'm always excited to collaborate on interesting projects and learn from others in the tech community.
 
@@ -88,6 +76,6 @@ I'm always excited to collaborate on interesting projects and learn from others 
 
 ---
 
-💡 *"Building data-driven solutions, one pipeline at a time."*
+ *"Building data-driven solutions, one pipeline at a time."*
 
 
