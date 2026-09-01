@@ -89,7 +89,7 @@ I'm always excited to collaborate on interesting projects and learn from others 
 
 ---
 
- *"Building data-driven solutions, one pipeline at a time."*
+ *"Architecting Scalable Data & AI systems for Global Impact."*
 
 
 
